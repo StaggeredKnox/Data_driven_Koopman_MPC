@@ -9,10 +9,6 @@ from utility.utils import reduce_spatial_dim, build_koopman_state
 
 from EDMD import edmd_algorithm as edmd
 
-from MPC import mpc
-
-from Define_model import KoopmanModel
-
 
 data = scipy.io.loadmat(cfg["path"])
 X, Y, U = data["X"], data["Y"], data["U"]
