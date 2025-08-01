@@ -6,3 +6,5 @@
 
 # How To Run
 Download all files and install requirements. Once done, modify config/cfg.py file and hit Run_all_scripts.py
+
+[![Demo thumbnail showing model output](thumbnail.png)](https://staggeredknox.github.io/Data-Driven-Koopman-MPC/my_project)
